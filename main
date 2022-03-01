@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	     <meta charset="UTF-8">
+
+        <!-- Helps the website scale well when the window is resized -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <meta name="author" content="CuB-03">
+        <meta name="description" content="Dan Calculator">
+        <meta name="keywords" content="HTML, CSS, JavaScript">
+        <meta name="date" content="1/3/2021">
+        <meta name="revised" content="1/3/2022">
+    </head>
+    <body>
+        
+	  </body>
